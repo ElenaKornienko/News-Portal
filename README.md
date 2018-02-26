@@ -13,6 +13,6 @@ Cookie таймер для показа банеров
 Мобильная адаптация
 Сендвич батон меню
 
-*Kornienko Elena*
-Skype: elenak20051
-Email: kornelena2005@gmail.com
+**Author**: *Kornienko Elena*
+**Skype**: elenak20051
+**Email**: kornelena2005@gmail.com
